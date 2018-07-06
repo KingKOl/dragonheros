@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 99c036b1e2fa8684d8717e2011131199
+timeCreated: 1523963078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ClothTop5 (1)
+    100002: Collider
+    100004: Collider 1
+    100006: Flag1.001 (1)
+    100008: Flag1.001 (1) 1
+    100010: Flag4 (1)
+    100012: IceBlock2 (1)
+    100014: IceBlock2 (1) 1
+    100016: IceBlock3
+    100018: IceBlock3 (1)
+    100020: IceBlock3 (1) 1
+    100022: IceBlock3 1
+    100024: Icicle3 (2)
+    100026: Icicle3 (3)
+    100028: Pillar
+    100030: PillarRight
+    100032: SnowArch1 (1)
+    100034: TournamentDeco14
+    100036: TournamentDeco19
+    100038: TournamentDeco5
+    100040: //RootNode
+    100042: Wood1.002 (1)
+    100044: Wood1.002 (1) 1
+    100046: Wood1.002 (1) 2
+    100048: Wood1.002 (2)
+    400000: ClothTop5 (1)
+    400002: Collider
+    400004: Collider 1
+    400006: Flag1.001 (1)
+    400008: Flag1.001 (1) 1
+    400010: Flag4 (1)
+    400012: IceBlock2 (1)
+    400014: IceBlock2 (1) 1
+    400016: IceBlock3
+    400018: IceBlock3 (1)
+    400020: IceBlock3 (1) 1
+    400022: IceBlock3 1
+    400024: Icicle3 (2)
+    400026: Icicle3 (3)
+    400028: Pillar
+    400030: PillarRight
+    400032: SnowArch1 (1)
+    400034: TournamentDeco14
+    400036: TournamentDeco19
+    400038: TournamentDeco5
+    400040: //RootNode
+    400042: Wood1.002 (1)
+    400044: Wood1.002 (1) 1
+    400046: Wood1.002 (1) 2
+    400048: Wood1.002 (2)
+    2100000: diffuse_atlas_snow_deco
+    2100002: BossHunt
+    2300000: ClothTop5 (1)
+    2300002: Flag1.001 (1)
+    2300004: Flag1.001 (1) 1
+    2300006: Flag4 (1)
+    2300008: IceBlock2 (1)
+    2300010: IceBlock2 (1) 1
+    2300012: IceBlock3
+    2300014: IceBlock3 (1)
+    2300016: IceBlock3 (1) 1
+    2300018: IceBlock3 1
+    2300020: Icicle3 (2)
+    2300022: Icicle3 (3)
+    2300024: SnowArch1 (1)
+    2300026: Wood1.002 (1)
+    2300028: Wood1.002 (1) 1
+    2300030: Wood1.002 (1) 2
+    2300032: Wood1.002 (2)
+    3300000: ClothTop5 (1)
+    3300002: Flag1.001 (1)
+    3300004: Flag1.001 (1) 1
+    3300006: Flag4 (1)
+    3300008: IceBlock2 (1)
+    3300010: IceBlock2 (1) 1
+    3300012: IceBlock3
+    3300014: IceBlock3 (1)
+    3300016: IceBlock3 (1) 1
+    3300018: IceBlock3 1
+    3300020: Icicle3 (2)
+    3300022: Icicle3 (3)
+    3300024: SnowArch1 (1)
+    3300026: Wood1.002 (1)
+    3300028: Wood1.002 (1) 1
+    3300030: Wood1.002 (1) 2
+    3300032: Wood1.002 (2)
+    4300000: IceBlock3
+    4300002: IceBlock2 (1)
+    4300004: Flag4 (1)
+    4300006: Wood1.002 (1)
+    4300008: ClothTop5 (1)
+    4300010: SnowArch1 (1)
+    4300012: Flag1.001 (1)
+    4300014: Icicle3 (3)
+    4300016: Flag1.001 (1)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

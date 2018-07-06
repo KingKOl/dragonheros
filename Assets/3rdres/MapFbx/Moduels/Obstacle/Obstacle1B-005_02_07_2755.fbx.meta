@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 67b3afab03c8ed446b7f7588c5dcc8bd
+timeCreated: 1523964631
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone1 (1)
+    100002: Bone4 (1)
+    100004: Collider
+    100006: Flag1.001 (2)
+    100008: Flag1.001 (3)
+    100010: Flag1.001 (4)
+    100012: Flag1.001 (5)
+    100014: Flag1.001 (6)
+    100016: Flag1.001 (7)
+    100018: //RootNode
+    100020: Rock (1)
+    100022: Rock (2)
+    100024: Rope2 (1)
+    100026: Rope2 (2)
+    100028: Snowpile (1)
+    100030: Snowpile (2)
+    100032: Snowpile (4)
+    100034: Snowpile (5)
+    100036: Snowpile (6)
+    100038: Snowpile (7)
+    100040: TournamentDeco15
+    100042: Wood1.002 (1)
+    100044: Wood1.002 (2)
+    400000: Bone1 (1)
+    400002: Bone4 (1)
+    400004: Collider
+    400006: Flag1.001 (2)
+    400008: Flag1.001 (3)
+    400010: Flag1.001 (4)
+    400012: Flag1.001 (5)
+    400014: Flag1.001 (6)
+    400016: Flag1.001 (7)
+    400018: //RootNode
+    400020: Rock (1)
+    400022: Rock (2)
+    400024: Rope2 (1)
+    400026: Rope2 (2)
+    400028: Snowpile (1)
+    400030: Snowpile (2)
+    400032: Snowpile (4)
+    400034: Snowpile (5)
+    400036: Snowpile (6)
+    400038: Snowpile (7)
+    400040: TournamentDeco15
+    400042: Wood1.002 (1)
+    400044: Wood1.002 (2)
+    2100000: diffuse_atlas_snow_deco
+    2100002: BossHunt
+    2300000: Bone1 (1)
+    2300002: Bone4 (1)
+    2300004: Flag1.001 (2)
+    2300006: Flag1.001 (3)
+    2300008: Flag1.001 (4)
+    2300010: Flag1.001 (5)
+    2300012: Flag1.001 (6)
+    2300014: Flag1.001 (7)
+    2300016: Rock (1)
+    2300018: Rock (2)
+    2300020: Rope2 (1)
+    2300022: Rope2 (2)
+    2300024: Snowpile (1)
+    2300026: Snowpile (2)
+    2300028: Snowpile (4)
+    2300030: Snowpile (5)
+    2300032: Snowpile (6)
+    2300034: Snowpile (7)
+    2300036: Wood1.002 (1)
+    2300038: Wood1.002 (2)
+    3300000: Bone1 (1)
+    3300002: Bone4 (1)
+    3300004: Flag1.001 (2)
+    3300006: Flag1.001 (3)
+    3300008: Flag1.001 (4)
+    3300010: Flag1.001 (5)
+    3300012: Flag1.001 (6)
+    3300014: Flag1.001 (7)
+    3300016: Rock (1)
+    3300018: Rock (2)
+    3300020: Rope2 (1)
+    3300022: Rope2 (2)
+    3300024: Snowpile (1)
+    3300026: Snowpile (2)
+    3300028: Snowpile (4)
+    3300030: Snowpile (5)
+    3300032: Snowpile (6)
+    3300034: Snowpile (7)
+    3300036: Wood1.002 (1)
+    3300038: Wood1.002 (2)
+    4300000: Snowpile (4)
+    4300002: Snowpile (1)
+    4300004: Bone1 (1)
+    4300006: Rock (2)
+    4300008: Rock (1)
+    4300010: Rope2 (2)
+    4300012: Flag1.001 (2)
+    4300014: Wood1.002 (2)
+    4300016: Bone4 (1)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

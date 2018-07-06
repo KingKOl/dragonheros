@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: c1da87dc22dcdb147b0ac9cb3f643378
+timeCreated: 1523963079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cloth1 (1)
+    100002: Collider
+    100004: Collider 1
+    100006: IceBlock2 (1)
+    100008: IceBlock2 (1) 1
+    100010: IceBlock3
+    100012: IceBlock3 (1)
+    100014: IceBlock3 (1) 1
+    100016: IceBlock3 1
+    100018: Icicle3 (2)
+    100020: Icicle3 (3)
+    100022: Pillar
+    100024: PillarRight
+    100026: SnowArch1 (1)
+    100028: Snowpile (8)
+    100030: Snowpile (9)
+    100032: TournamentDeco18
+    100034: Tree
+    100036: Tree2 (1)
+    100038: //RootNode
+    100040: Wood1.002 (2)
+    100042: Wood1.002 (3)
+    400000: Cloth1 (1)
+    400002: Collider
+    400004: Collider 1
+    400006: IceBlock2 (1)
+    400008: IceBlock2 (1) 1
+    400010: IceBlock3
+    400012: IceBlock3 (1)
+    400014: IceBlock3 (1) 1
+    400016: IceBlock3 1
+    400018: Icicle3 (2)
+    400020: Icicle3 (3)
+    400022: Pillar
+    400024: PillarRight
+    400026: SnowArch1 (1)
+    400028: Snowpile (8)
+    400030: Snowpile (9)
+    400032: TournamentDeco18
+    400034: Tree
+    400036: Tree2 (1)
+    400038: //RootNode
+    400040: Wood1.002 (2)
+    400042: Wood1.002 (3)
+    2100000: diffuse_atlas_snow_deco2
+    2100002: diffuse_atlas_snow_deco
+    2100004: BossHunt
+    2300000: Cloth1 (1)
+    2300002: IceBlock2 (1)
+    2300004: IceBlock2 (1) 1
+    2300006: IceBlock3
+    2300008: IceBlock3 (1)
+    2300010: IceBlock3 (1) 1
+    2300012: IceBlock3 1
+    2300014: Icicle3 (2)
+    2300016: Icicle3 (3)
+    2300018: SnowArch1 (1)
+    2300020: Snowpile (8)
+    2300022: Snowpile (9)
+    2300024: Tree
+    2300026: Tree2 (1)
+    2300028: Wood1.002 (2)
+    2300030: Wood1.002 (3)
+    3300000: Cloth1 (1)
+    3300002: IceBlock2 (1)
+    3300004: IceBlock2 (1) 1
+    3300006: IceBlock3
+    3300008: IceBlock3 (1)
+    3300010: IceBlock3 (1) 1
+    3300012: IceBlock3 1
+    3300014: Icicle3 (2)
+    3300016: Icicle3 (3)
+    3300018: SnowArch1 (1)
+    3300020: Snowpile (8)
+    3300022: Snowpile (9)
+    3300024: Tree
+    3300026: Tree2 (1)
+    3300028: Wood1.002 (2)
+    3300030: Wood1.002 (3)
+    4300000: Tree
+    4300002: Tree2 (1)
+    4300004: SnowArch1 (1)
+    4300006: Snowpile (8)
+    4300008: IceBlock3
+    4300010: IceBlock2 (1)
+    4300012: Cloth1 (1)
+    4300014: Wood1.002 (3)
+    4300016: Icicle3 (3)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

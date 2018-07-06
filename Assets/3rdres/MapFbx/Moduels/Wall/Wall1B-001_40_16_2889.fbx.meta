@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 2b7a2fd24ba504a458bab096aec4d579
+timeCreated: 1523963075
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1B_Wall1
+    100002: ChainLink (5)
+    100004: ChainLink (6)
+    100006: ChainLink (7)
+    100008: ChainLink (8)
+    100010: Flag1 (1)
+    100012: Flag1 (2)
+    100014: Rope2 (1)
+    100016: TournamentDeco4
+    100018: //RootNode
+    100020: Wood1.002 (1)
+    100022: WoodFat1 (1)
+    400000: 1B_Wall1
+    400002: ChainLink (5)
+    400004: ChainLink (6)
+    400006: ChainLink (7)
+    400008: ChainLink (8)
+    400010: Flag1 (1)
+    400012: Flag1 (2)
+    400014: Rope2 (1)
+    400016: TournamentDeco4
+    400018: //RootNode
+    400020: Wood1.002 (1)
+    400022: WoodFat1 (1)
+    2100000: DungeonBlocksCrypt-Deco
+    2100002: BossHunt
+    2300000: 1B_Wall1
+    2300002: ChainLink (5)
+    2300004: ChainLink (6)
+    2300006: ChainLink (7)
+    2300008: ChainLink (8)
+    2300010: Flag1 (1)
+    2300012: Flag1 (2)
+    2300014: Rope2 (1)
+    2300016: Wood1.002 (1)
+    2300018: WoodFat1 (1)
+    3300000: 1B_Wall1
+    3300002: ChainLink (5)
+    3300004: ChainLink (6)
+    3300006: ChainLink (7)
+    3300008: ChainLink (8)
+    3300010: Flag1 (1)
+    3300012: Flag1 (2)
+    3300014: Rope2 (1)
+    3300016: Wood1.002 (1)
+    3300018: WoodFat1 (1)
+    4300000: ChainLink (5)
+    4300002: Rope2 (1)
+    4300004: Wood1.002 (1)
+    4300006: WoodFat1 (1)
+    4300008: Flag1 (2)
+    4300010: 1B_Wall1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 1f08448b94708c64283fe362d1db9692
+timeCreated: 1523963075
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Collider
+    100002: Collider 1
+    100004: Corner1
+    100006: Corner4 (1)
+    100008: DecoRocks (2)
+    100010: Flag1.001 (2)
+    100012: Flag1.001 (2) 1
+    100014: Flag1.001 (3)
+    100016: Flag1.001 (3) 1
+    100018: Flag1.001 (4)
+    100020: Flag1.001 (4) 1
+    100022: Flag1.001 (5)
+    100024: Flag1.001 (6)
+    100026: Flag1.001 (7)
+    100028: Plant3 (1)
+    100030: Rope2 (1)
+    100032: Rope2 (2)
+    100034: Rope2 (3)
+    100036: TournamentDeco15
+    100038: Wall1 (2)
+    100040: //RootNode
+    100042: Wood1.002 (1)
+    100044: Wood1.002 (2)
+    100046: Wood1.002 (3)
+    400000: Collider
+    400002: Collider 1
+    400004: Corner1
+    400006: Corner4 (1)
+    400008: DecoRocks (2)
+    400010: Flag1.001 (2)
+    400012: Flag1.001 (2) 1
+    400014: Flag1.001 (3)
+    400016: Flag1.001 (3) 1
+    400018: Flag1.001 (4)
+    400020: Flag1.001 (4) 1
+    400022: Flag1.001 (5)
+    400024: Flag1.001 (6)
+    400026: Flag1.001 (7)
+    400028: Plant3 (1)
+    400030: Rope2 (1)
+    400032: Rope2 (2)
+    400034: Rope2 (3)
+    400036: TournamentDeco15
+    400038: Wall1 (2)
+    400040: //RootNode
+    400042: Wood1.002 (1)
+    400044: Wood1.002 (2)
+    400046: Wood1.002 (3)
+    2100000: DungeonBlocksAztek-Deco
+    2100002: BossHunt
+    2300000: Corner1
+    2300002: Corner4 (1)
+    2300004: DecoRocks (2)
+    2300006: Flag1.001 (2)
+    2300008: Flag1.001 (2) 1
+    2300010: Flag1.001 (3)
+    2300012: Flag1.001 (3) 1
+    2300014: Flag1.001 (4)
+    2300016: Flag1.001 (4) 1
+    2300018: Flag1.001 (5)
+    2300020: Flag1.001 (6)
+    2300022: Flag1.001 (7)
+    2300024: Plant3 (1)
+    2300026: Rope2 (1)
+    2300028: Rope2 (2)
+    2300030: Rope2 (3)
+    2300032: Wall1 (2)
+    2300034: Wood1.002 (1)
+    2300036: Wood1.002 (2)
+    2300038: Wood1.002 (3)
+    3300000: Corner1
+    3300002: Corner4 (1)
+    3300004: DecoRocks (2)
+    3300006: Flag1.001 (2)
+    3300008: Flag1.001 (2) 1
+    3300010: Flag1.001 (3)
+    3300012: Flag1.001 (3) 1
+    3300014: Flag1.001 (4)
+    3300016: Flag1.001 (4) 1
+    3300018: Flag1.001 (5)
+    3300020: Flag1.001 (6)
+    3300022: Flag1.001 (7)
+    3300024: Plant3 (1)
+    3300026: Rope2 (1)
+    3300028: Rope2 (2)
+    3300030: Rope2 (3)
+    3300032: Wall1 (2)
+    3300034: Wood1.002 (1)
+    3300036: Wood1.002 (2)
+    3300038: Wood1.002 (3)
+    4300000: Plant3 (1)
+    4300002: Corner4 (1)
+    4300004: Wall1 (2)
+    4300006: DecoRocks (2)
+    4300008: Wood1.002 (3)
+    4300010: Rope2 (2)
+    4300012: Flag1.001 (4)
+    4300014: Corner1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

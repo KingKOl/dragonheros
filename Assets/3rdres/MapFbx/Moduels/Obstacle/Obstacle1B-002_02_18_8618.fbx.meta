@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: dc1f84a2e128b234980679c9262dfac1
+timeCreated: 1523964631
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BonFire
+    100002: Collider
+    100004: DungeonLight (1)
+    100006: Flag1.001 (1)
+    100008: FlameBigFX
+    100010: Flames (1)
+    100012: //RootNode
+    100014: Rock
+    100016: Rock (2)
+    100018: Snowpile
+    100020: Snowpile (1)
+    100022: Snowpile (2)
+    100024: Snowpile (3)
+    100026: Snowpile (4)
+    100028: Snowpile (5)
+    100030: TournamentDeco19
+    100032: Wood1 (1)
+    100034: Wood1.002 (1)
+    100036: Wood2 (1)
+    100038: Wood3 (1)
+    400000: BonFire
+    400002: Collider
+    400004: DungeonLight (1)
+    400006: Flag1.001 (1)
+    400008: FlameBigFX
+    400010: Flames (1)
+    400012: //RootNode
+    400014: Rock
+    400016: Rock (2)
+    400018: Snowpile
+    400020: Snowpile (1)
+    400022: Snowpile (2)
+    400024: Snowpile (3)
+    400026: Snowpile (4)
+    400028: Snowpile (5)
+    400030: TournamentDeco19
+    400032: Wood1 (1)
+    400034: Wood1.002 (1)
+    400036: Wood2 (1)
+    400038: Wood3 (1)
+    2100000: diffuse_atlas_snow_deco
+    2100002: BossHunt
+    2300000: Flag1.001 (1)
+    2300002: Rock
+    2300004: Rock (2)
+    2300006: Snowpile
+    2300008: Snowpile (1)
+    2300010: Snowpile (2)
+    2300012: Snowpile (3)
+    2300014: Snowpile (4)
+    2300016: Snowpile (5)
+    2300018: Wood1 (1)
+    2300020: Wood1.002 (1)
+    2300022: Wood2 (1)
+    2300024: Wood3 (1)
+    3300000: Flag1.001 (1)
+    3300002: Rock
+    3300004: Rock (2)
+    3300006: Snowpile
+    3300008: Snowpile (1)
+    3300010: Snowpile (2)
+    3300012: Snowpile (3)
+    3300014: Snowpile (4)
+    3300016: Snowpile (5)
+    3300018: Wood1 (1)
+    3300020: Wood1.002 (1)
+    3300022: Wood2 (1)
+    3300024: Wood3 (1)
+    4300000: Snowpile
+    4300002: Snowpile (4)
+    4300004: Wood2 (1)
+    4300006: Wood1 (1)
+    4300008: Wood3 (1)
+    4300010: Rock (2)
+    4300012: Rock
+    4300014: Flag1.001 (1)
+    4300016: Wood1.002 (1)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

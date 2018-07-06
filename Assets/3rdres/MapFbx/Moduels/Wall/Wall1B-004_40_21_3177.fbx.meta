@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 11130339377d3a546b8babf2f9d89f76
+timeCreated: 1523963075
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1B_Wall1
+    100002: BonFire (1)
+    100004: DungeonLight (1)
+    100006: Flag1.001 (1)
+    100008: Flag1.001 (2)
+    100010: FlameBigFX
+    100012: Flames (1)
+    100014: Rock (1)
+    100016: Rock (2)
+    100018: Snowpile (1)
+    100020: Snowpile (2)
+    100022: Snowpile (5)
+    100024: Snowpile (6)
+    100026: Snowpile (7)
+    100028: TournamentDeco3
+    100030: Wall
+    100032: //RootNode
+    100034: Wood1 (1)
+    100036: Wood1.002 (1)
+    100038: Wood2 (1)
+    100040: Wood3 (1)
+    100042: WoodTop (1)
+    400000: 1B_Wall1
+    400002: BonFire (1)
+    400004: DungeonLight (1)
+    400006: Flag1.001 (1)
+    400008: Flag1.001 (2)
+    400010: FlameBigFX
+    400012: Flames (1)
+    400014: Rock (1)
+    400016: Rock (2)
+    400018: Snowpile (1)
+    400020: Snowpile (2)
+    400022: Snowpile (5)
+    400024: Snowpile (6)
+    400026: Snowpile (7)
+    400028: TournamentDeco3
+    400030: Wall
+    400032: //RootNode
+    400034: Wood1 (1)
+    400036: Wood1.002 (1)
+    400038: Wood2 (1)
+    400040: Wood3 (1)
+    400042: WoodTop (1)
+    2100000: diffuse_atlas_snow_deco
+    2100002: BossHunt
+    2300000: Flag1.001 (1)
+    2300002: Flag1.001 (2)
+    2300004: Rock (1)
+    2300006: Rock (2)
+    2300008: Snowpile (1)
+    2300010: Snowpile (2)
+    2300012: Snowpile (5)
+    2300014: Snowpile (6)
+    2300016: Snowpile (7)
+    2300018: Wall
+    2300020: Wood1 (1)
+    2300022: Wood1.002 (1)
+    2300024: Wood2 (1)
+    2300026: Wood3 (1)
+    2300028: WoodTop (1)
+    3300000: Flag1.001 (1)
+    3300002: Flag1.001 (2)
+    3300004: Rock (1)
+    3300006: Rock (2)
+    3300008: Snowpile (1)
+    3300010: Snowpile (2)
+    3300012: Snowpile (5)
+    3300014: Snowpile (6)
+    3300016: Snowpile (7)
+    3300018: Wall
+    3300020: Wood1 (1)
+    3300022: Wood1.002 (1)
+    3300024: Wood2 (1)
+    3300026: Wood3 (1)
+    3300028: WoodTop (1)
+    4300000: Snowpile (2)
+    4300002: Wood1.002 (1)
+    4300004: Flag1.001 (1)
+    4300006: Flag1.001 (2)
+    4300008: WoodTop (1)
+    4300010: Rock (1)
+    4300012: Rock (2)
+    4300014: Snowpile (6)
+    4300016: Wall
+    4300018: Wood3 (1)
+    4300020: Wood2 (1)
+    4300022: Wood1 (1)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

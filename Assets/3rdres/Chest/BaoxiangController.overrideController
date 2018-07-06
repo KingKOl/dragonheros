@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BaoxiangController
+  m_Controller: {fileID: 9100000, guid: 84530fd9c83f9c94d8a29e26e9b6f3a0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400192, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400192, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400208, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400208, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400210, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400210, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400212, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400212, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400194, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: d00b7e5fc90010c41bc778ece20a61d0, type: 3}
+  - m_OriginalClip: {fileID: 7400196, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bd5f40ead3356cb4db38264d1e4f3202, type: 3}
+  - m_OriginalClip: {fileID: 7400200, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400200, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400202, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400202, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400206, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400206, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+  - m_OriginalClip: {fileID: 7400270, guid: 8439c38f58e175446af075263b3a5045, type: 3}
+    m_OverrideClip: {fileID: 7400270, guid: 8439c38f58e175446af075263b3a5045, type: 3}
